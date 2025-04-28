@@ -1,0 +1,19 @@
+{
+    "Price per sft": "Give the price per square foot and total cost range for {project} in {location}.",
+    "Possession": "When is the possession date (Month and Year) for {project} in {location}?",
+    "RERA number": "What is the RERA registration number of {project} in {location}?",
+    "Amenities": "List the main amenities in {project} in {location}.",
+    "Construction quality": "Describe the construction quality (materials used, build type) of {project} in {location}.",
+    "Connectivity": "How well-connected is {project} in {location} to work hubs, schools, hospitals, and transport?",
+    "Builder Reputation": "What is the builder reputation and past track record for {project} in {location}?",
+    "Vastu compliance": "Is {project} in {location} vastu compliant? What orientations are available?",
+    "Gated community features": "What gated community amenities are offered in {project} in {location}?",
+    "Configuration": "What are the available configurations (2BHK, 3BHK, etc.) in {project} in {location}?",
+    "Safety & Security": "What safety and security measures are present in {project} in {location}?",
+    "Infrastructure": "What infrastructure developments (roads, metro, malls) surround {project} in {location}?",
+    "Traffic & Commute Time": "What is the commute time during peak hours from {project} to nearest metro?",
+    "Environmental Factors": "What is the noise, pollution, and greenery status around {project} in {location}?",
+    "Water Supply": "Is there 24/7 water supply, borewell or municipal, in {project} in {location}?",
+    "Home Loan Options": "What home loan options are available for {project} in {location}?"
+  }
+  
